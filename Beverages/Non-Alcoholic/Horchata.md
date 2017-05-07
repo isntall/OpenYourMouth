@@ -16,15 +16,15 @@
 
 ### Ingredients
 
-|Ingredients           | US        |Metric  |
-|:---------------------|:----------|:-------|
-|long grain white rice | 1 cup     | 200 g  |
-| blanched almonds     | 1 cup     | 145 g  |
-| cinnamon stick       | 3 inches  | 8 cm   |
-| Hot water            | 3 cup     | 705 ml |
-| cold/tap water       | 2 cups    | 470 ml |
-| Sugar                | 3/4 cup   | 170 g  |
-| vanilla              | 1 1/2 tsp | 7.4 ml |
+|Ingredients            | US        |Metric  |
+|:----------------------|:----------|:-------|
+| long grain white rice | 1 cup     | 200 g  |
+| blanched almonds      | 1 cup     | 145 g  |
+| cinnamon stick        | 3 inches  | 8 cm   |
+| hot water             | 3 cup     | 705 ml |
+| cold/tap water        | 2 cups    | 470 ml |
+| sugar                 | 3/4 cup   | 170 g  |
+| vanilla               | 1 1/2 tsp | 7.4 ml |
 
 
 ### Preparation
