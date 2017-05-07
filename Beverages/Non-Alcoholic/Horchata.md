@@ -1,7 +1,5 @@
 # Hochata
-## rice and almond milk drink
-
-![Alt Text](http://i.imgur.com/tYjfo5M.png "Title")
+## A rice and almond milk drink with cinnamon and some sugar
 
 ### Tools
 
@@ -29,16 +27,14 @@
 | vanilla              | 1 1/2 tsp | 7.4 ml |
 
 
-
-
 ### Preparation
 
 #### Soak
-1. Combinded
-a. 1 cup of rice
-b. 1 cup of blanched almond
-c. 1 cinnamon stick
-d. 3 cups hot water into a container
+1. Combined
+  * 1 cup of rice
+  * 1 cup of blanched almond
+  * 1 cinnamon stick
+  * 3 cups hot water into a container
 2. Let sit on counter for at least 3 hours
 3. Optional: put in fridge and let sit overnight
 
@@ -50,5 +46,5 @@ d. 3 cups hot water into a container
 5. Once filtered, mix in vanilla
 6. Mix in sugar slowly (I mixed in the blender)
 8. Chill for 30 minutes in refrigerator, for better results let sit in fridge longer
-9. Serve over ice, add ground cinnamon as garnish
+9. Shake/stir, serve over ice, add ground cinnamon as garnish
 10. Drink within 3-4 days
